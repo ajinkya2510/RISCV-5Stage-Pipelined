@@ -20,7 +20,7 @@ Unlike a single-cycle processor where an instruction completes within one clock 
 ## RV32I Instruction Set Reference
 
 <p align="center">
-  <img src="images/rv32i_instruction_set.png" width="1000">
+  <img src="images/rv32i_intruction_set.png" width="1000">
 </p>
 
 <p align="center">
