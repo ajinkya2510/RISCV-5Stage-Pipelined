@@ -15,3 +15,5 @@ simulation/questa/wlft*
 *.vo
 modelsim.ini
 msim_transcript
+RISC-V.v
+c5_pin_model_dump.txt
