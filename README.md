@@ -15,18 +15,22 @@ Unlike a single-cycle processor where an instruction completes within one clock 
 </p>
 
 <p align="center">
-  Reference datapath used while designing and implementing the 5-stage pipelined RISC-V processor.
+  5-stage pipelined RV32I processor architecture implemented in this project.
 </p>
+
+---
+
 ## RV32I Instruction Set Reference
 
 <p align="center">
-  <img src="images/rv32i_intruction_set.png" width="1000">
+  <img src="images/rv32i_instruction_set.png" width="1000">
 </p>
 
 <p align="center">
   RV32I instruction formats and supported instructions implemented in this processor.
 </p>
 
+---
 ### Supported Instruction Categories
 
 **R-Type Instructions**
