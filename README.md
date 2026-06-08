@@ -8,6 +8,16 @@ The design supports arithmetic, logical, memory, branch, and jump instructions f
 
 Unlike a single-cycle processor where an instruction completes within one clock cycle, this implementation allows multiple instructions to execute simultaneously in different pipeline stages, significantly improving instruction throughput.
 
+## Architecture
+
+<p align="center">
+  <img src="images/architecture.png" width="900">
+</p>
+
+<p align="center">
+  Reference datapath used while designing and implementing the 5-stage pipelined RISC-V processor.
+</p>
+
 ### Supported Instruction Categories
 
 **R-Type Instructions**
