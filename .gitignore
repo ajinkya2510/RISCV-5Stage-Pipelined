@@ -1,0 +1,17 @@
+db/
+incremental_db/
+output_files/
+*.bak
+*.vcd
+*.wlf
+*.qdb
+*.qpg
+*.qtl
+*.log
+simulation/questa/rtl_work/
+simulation/questa/vsim.wlf
+simulation/questa/wlft*
+*.sft
+*.vo
+modelsim.ini
+msim_transcript
